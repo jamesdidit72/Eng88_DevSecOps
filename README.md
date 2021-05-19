@@ -1,5 +1,5 @@
-#Python
-##Python installation 3.7 or above
+# Python
+## Python installation 3.7 or above
 ### Pycharm set up
 #### Documentation with README.md to store on Git-hub
 
@@ -31,7 +31,7 @@ print(type(age))
 print(type(wage))
 ```
 
-###Operators
+### Operators
 
 | Operand | Description | Example |
 |:---------: |:----------------------------: |:--------: |
@@ -57,7 +57,7 @@ print(type(wage))
 | >= | True if left operand is greater than or equal to the right| x >= y |
 | <= | True if left operand is less than or equal to the right| x <= y |
 
-####initial operators work
+#### initial operators work
 ```python
 value_1 = 6
 value_2 = 7
